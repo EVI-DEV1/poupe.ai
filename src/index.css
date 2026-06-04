@@ -18,3 +18,8 @@
 
   }
 }
+
+.lucide {
+  /* Setting the default color for icons to match the foreground color */
+ stroke-width: 1.5;
+}
