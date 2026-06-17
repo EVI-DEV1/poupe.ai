@@ -43,6 +43,8 @@ export function ChatSection({
 
 async function handleSend(customQuestion?: string) {
   const questionToSend = customQuestion ?? question
+  console.log(questionToSend);
+console.log(typeof questionToSend);
 
   if (!questionToSend.trim()) return
 
@@ -223,7 +225,7 @@ if (currentSimulation) {
   }}
   />
         <button
-    onClick={handleSend}
+  onClick={() => void handleSend()}
   disabled={isLoading}
   className="
     bg-primary

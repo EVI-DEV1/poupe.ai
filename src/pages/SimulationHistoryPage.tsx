@@ -48,7 +48,7 @@ export function SimulationHistoryPage() {
               className="bg-card rounded-2xl p-6 shadow-[4px_4px_18px_0px_rgba(0,0,0,0.2)]"
             >
               <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
-                <div className="flex items-center gap-4">
+                <div className="flex w-[280px] shrink-0 items-center gap-4">
                   <Goal
                     size={32}
                     className="text-primary"
