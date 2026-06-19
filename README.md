@@ -1,5 +1,5 @@
 
-⬢ **Desenvolvendo um Educador Financeiro com React e IA Generativa**
+### ⬢ **Desenvolvendo um Educador Financeiro com React e IA Generativa**
 
 
 *Este projeto foi desenvolvido durante o Bootcamp Santander na DIO (Digital Innovation One), como parte de uma iniciativa prática voltada à criação de aplicações modernas com React e TypeScript.*
